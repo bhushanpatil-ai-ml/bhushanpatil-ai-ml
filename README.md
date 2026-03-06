@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋 I'm Bhushan Patil
 
-<!--
-**bhushanpatil-ai-ml/bhushanpatil-ai-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI / Machine Learning Engineer  
+Data Science Enthusiast
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Machine Learning
+- Data Science
+- Deep Learning
+- Natural Language Processing
+- Computer Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+Building real-world AI projects and improving ML skills.
+
+## Connect with me
+LinkedIn: (add your link)
+GitHub: https://github.com/bhushanpatil-ai-ml
