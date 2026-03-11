@@ -15,5 +15,5 @@ Data Science Enthusiast
 Building real-world AI projects and improving ML skills.
 
 ## Connect with me
-LinkedIn: (add your link)
+LinkedIn: https://www.linkedin.com/in/bhushanpatil-ai-ml
 GitHub: https://github.com/bhushanpatil-ai-ml
