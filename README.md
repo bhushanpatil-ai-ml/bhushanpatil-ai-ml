@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhushan Patil</h1>
-<h3 align="center">AI/ML Engineer | Building Production-Ready ML Systems</h3>
+<h3 align="center">AI/ML Engineer | Data Science | Building Production-Ready ML Systems</h3>
 
 ---
 
